@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "TicTacToe/demo/src/main/java",
+        "calculator/src/main/java/com/example"
+    ]
+}
